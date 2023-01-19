@@ -23,3 +23,6 @@ if__name__=="__main__":
     btn.move(110,150)
     btn.show()
     btn.clicked.connect(dialog)
+
+
+blah blah blah    
